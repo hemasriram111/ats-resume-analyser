@@ -32,8 +32,8 @@ Follow these steps to set up and run the project on your local machine:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-ats.git
-   cd smart-ats
+   git clone https://github.com/hemasriram111/ats-resume-analyser.git
+   
    ```
 
 2. Create and activate a virtual environment:
